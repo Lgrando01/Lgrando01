@@ -19,8 +19,5 @@ Analista de Suporte e Desenvolvedor de Sistemas Junior <br/>
   <img alt="tecnologies" height="65" widht="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="tecnologies" height="65" widht="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img alt="tecnologies" height="65" widht="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
           
-
-  
 </div>
